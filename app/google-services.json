@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913595982261",
+    "project_id": "pecpoc-d580a",
+    "storage_bucket": "pecpoc-d580a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913595982261:android:317ff02afa2d900226b9fc",
+        "android_client_info": {
+          "package_name": "com.example.pushdemoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmrqmB2MaKBUi1PUR4niF7dWvifQ5_tD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
